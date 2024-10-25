@@ -25,15 +25,15 @@ export function Mockups() {
             <div className="absolute -inset-px rounded-[2rem] bg-gradient-to-r from-white/30 to-white/0 opacity-0 group-hover:opacity-100 transition-opacity duration-500 blur-xl" />
             <GlassCard className="relative overflow-hidden p-2">
               <Image
-                src="https://images.unsplash.com/photo-1616469829581-73993eb86b02"
-                alt="Mobile App Interface"
+                src="https://i.ibb.co/jMzjknF/2024-10-25-3-21-01.png"
+                alt="Mobile Web App Interface"
                 width={500}
                 height={900}
                 className="rounded-xl w-full transform transition-transform duration-500 group-hover:scale-[1.02]"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 flex items-end p-8">
                 <div className="text-white">
-                  <h3 className="text-2xl font-bold mb-2">Mobile App</h3>
+                  <h3 className="text-2xl font-bold mb-2">Mobile Web App</h3>
                   <p className="text-white/80">Book appointments on the go with our intuitive mobile interface</p>
                 </div>
               </div>
@@ -44,7 +44,7 @@ export function Mockups() {
             <div className="absolute -inset-px rounded-[2rem] bg-gradient-to-r from-white/30 to-white/0 opacity-0 group-hover:opacity-100 transition-opacity duration-500 blur-xl" />
             <GlassCard className="relative overflow-hidden p-2">
               <Image
-                src="https://images.unsplash.com/photo-1551288049-bebda4e38f71"
+                src="https://i.ibb.co/WkYTGtd/2024-10-25-3-21-25.png"
                 alt="Admin Dashboard"
                 width={600}
                 height={400}

@@ -18,7 +18,7 @@ export function Hero() {
           {/* Badge */}
           <div className="inline-flex items-center gap-2 bg-white/[0.05] backdrop-blur-sm border border-white/[0.08] rounded-full px-4 py-1.5 mb-8">
             <Star className="w-4 h-4 text-primary fill-primary" />
-            <span className="text-sm font-medium">Up to 5% increase in revenue</span>
+            <span className="text-sm font-medium">Up to 35% increase in revenue</span>
           </div>
           
           {/* Main Content */}

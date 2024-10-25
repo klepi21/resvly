@@ -31,7 +31,7 @@ export default function Home() {
             />
             <FeatureCard 
               icon={<Smartphone className="w-12 h-12" />}
-              title="Mobile App"
+              title="Mobile Web App"
               description="Give your customers the freedom to book appointments anytime, anywhere with our intuitive mobile app."
             />
             <FeatureCard 
@@ -80,7 +80,7 @@ export default function Home() {
             <GradientText>Simple, Transparent Pricing</GradientText>
           </h2>
           <p className="text-xl text-white/60 text-center mb-20 max-w-2xl mx-auto">
-            Boost your revenue by up to 5% with our intelligent booking system
+            And we only take up to 5% from your upgraded revenue
           </p>
           <div className="flex justify-center">
             <Button size="lg" className="group bg-primary/90 hover:bg-primary/80 backdrop-blur-sm text-lg h-14 px-8">
